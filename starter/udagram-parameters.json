@@ -1,6 +1,10 @@
 [
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "ChienNM8Project"
+    },
 	{
-		"ParameterKey": "Add you parameters here",
-		"ParameterValue": "Add you parameters here"
+	  "ParameterKey": "S3BucketName",
+	  "ParameterValue": "chiennm8-udacity-project-bucket"
 	}
 ]
